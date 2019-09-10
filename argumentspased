@@ -1,0 +1,8 @@
+#!/bin/bash
+diff=$((10-$#))
+if [ $# -gt 10 ]
+then
+echo " supplied arguments are correct -  $# "
+else
+echo "Supplied arguments are only $# - PLease pass $diff more values"
+fi
