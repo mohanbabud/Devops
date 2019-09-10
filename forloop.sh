@@ -3,4 +3,3 @@
 for Variable in {1..3}
 do echo "$Variable"
 done
-echo " Succesfull execution of For loop"

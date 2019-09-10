@@ -1,0 +1,8 @@
+#!/bin/sh
+echo -e " enter the first value : \c "
+read -r a
+echo -e " enter the second value : \c "
+read -r b
+
+echo " Total of the numbers you enterd is $(($a+$b))"
+

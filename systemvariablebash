@@ -1,0 +1,2 @@
+#!/bin/sh
+echo " my script is name $0"
